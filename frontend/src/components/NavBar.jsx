@@ -8,7 +8,7 @@ function NavBar() {
     return (
         <nav className="navbar">
             <div className="navbar-brand">
-                <Link to="/">Anime App</Link>
+                <Link to="/">AniTrack</Link>
             </div>
             <div className="navbar-links">
                 <NavLink to="/" className="nav-link">Home</NavLink>
